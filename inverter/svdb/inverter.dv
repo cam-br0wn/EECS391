@@ -1,0 +1,15 @@
+# CALIBRE-LVS DISCREPANCY VIEWER TCL FILE 
+# FILE: svdb/inverter.dv
+dv_start unmatched
+dv_cell {inverter} {inverter} unmatched
+dv_obj_count -transformed_nets {4 4} -transformed_inst {2 2} -transformed_port {1 4}
+dv_discrep 1 {Incorrect Ports}
+dv_discrep_line {** missing port **                                        } -sport {VDD} { on net: } -snet {VDD} {}
+dv_discrep_line {}
+dv_discrep 2 {Incorrect Ports}
+dv_discrep_line {** missing port **                                        } -sport {GND} { on net: } -snet {GND} {}
+dv_discrep_line {}
+dv_discrep 3 {Incorrect Ports}
+dv_discrep_line {** missing port **                                        } -sport {Y} { on net: } -snet {Y} {}
+dv_discrep_line {}
+dv_end

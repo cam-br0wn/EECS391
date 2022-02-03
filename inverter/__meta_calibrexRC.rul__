@@ -1,0 +1,5 @@
+
+
+INCLUDE "/home/ckb4640/391/EECS391/inverter/pex_svrf_cmd.txt"
+
+INCLUDE "/vol/eecs391/FreePDK45/ncsu_basekit/techfile/calibre/calibrexRC.rul"

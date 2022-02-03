@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ckb4640
+HostName                       joker.ece.northwestern.edu
+ProcessIdentifier              496217
+ProcessCreationTime_UTC        1642368121
+ProcessCreationTime_Readable   Sun Jan 16 15:22:01 2022 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/ckb4640/391/EECS391/inverter/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Jan 16 15:51:47 2022 CST

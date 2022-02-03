@@ -1,0 +1,37 @@
+
+
+       #############################################################
+       ##                                                         ##
+       ##               C A L I B R E    S Y S T E M              ##
+       ##                                                         ##
+       ##    C I R C U I T   E X T R A C T I O N   R E P O R T    ##
+       ##                                                         ##
+       #############################################################
+
+
+REPORT FILE NAME:         inverter.lvs.report.ext
+LAYOUT NAME:              inverter.calibre.db ('inverter')
+CREATION TIME:            Sun Jan 23 23:41:51 2022
+CURRENT DIRECTORY:        /home/ckb4640/391/EECS391/inverter
+USER NAME:                ckb4640
+CALIBRE VERSION:          v2011.4_35.27    Tue Jan 10 16:18:55 PST 2012
+
+
+
+Extraction Errors and Warnings for cell "inverter"
+--------------------------------------------------
+
+WARNING:  Unattached label:
+          Name  "gnd"  at location  (0.196,-2.3485)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "vdd"  at location  (0.185,-0.6625)  on layer  11 "metal1"
+
+WARNING:  Unattached label:
+          Name  "Y"  at location  (0.355,-1.64)  on layer  11 "metal1"
+
+
+WARNING: Unattached port "vdd" at location (0.185,-0.6625) in cell "inverter"
+WARNING: Unattached port "gnd" at location (0.196,-2.3485) in cell "inverter"
+WARNING: Unattached port "Y" at location (0.355,-1.64) in cell "inverter"
+

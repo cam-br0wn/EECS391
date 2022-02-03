@@ -1,0 +1,9 @@
+# Automagically generated file: Please do not edit!
+lvs_ExtfVersion 2
+lvs_ExtRunTimes 1643852801 1643852801
+lvs_ExtOutFile RUNDIR /home/ckb4640/391/EECS391/inverter
+lvs_ExtOutFile RULES_FILE /home/ckb4640/391/EECS391/inverter/_calibreLVS.rul_
+lvs_ExtInfoExtSummary {0 0 0 0 0 0 0 0 0 0}
+lvs_ExtInfoDfmSummary {0}
+lvs_ExtOutFile LAYOUT_NETLIST /home/ckb4640/391/EECS391/inverter/NOR3.sp
+lvs_ExtOutFile EXTRACTION_REPORT NOR3.lvs.report.ext

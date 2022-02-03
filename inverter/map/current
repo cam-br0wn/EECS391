@@ -1,0 +1,14 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "NOR3"
+  repList "auCdl schematic"
+  stopList "auCdl"
+  hierDelim "."
+  netlistDir "/home/ckb4640/391/EECS391/inverter"
+ )
+( model
+( "EECS391/NOR3/schematic" "NOR3" )
+ )
+( "NOR3" "ihnl/cds0/map" )
+ )

@@ -1,0 +1,8 @@
+//OK 
+//NUMBER_OF_HEADER_LINES: 6
+//VERSION: 1
+//TOKEN_DELIMITER: "
+//TOKEN_SEPARATOR: " "
+//FORMAT: "time" "calibre version" "command line"
+"Sun Jan 23 23:41:52 2022 " "v2011.4_35.27" "-xrc -pdb -rcc -turbo 1 /home/ckb4640/391/EECS391/inverter/_calibrexRC.rul_"
+"Sun Jan 23 23:41:53 2022 " "v2011.4_35.27" "-xrc -fmt -all /home/ckb4640/391/EECS391/inverter/_calibrexRC.rul_"

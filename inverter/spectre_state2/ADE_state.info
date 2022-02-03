@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("EECS391" "inverter" "calibre" "spectre")
+descriptionText = "state with A and Y"
