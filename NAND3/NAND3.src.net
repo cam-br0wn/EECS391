@@ -1,0 +1,32 @@
+************************************************************************
+* auCdl Netlist:
+* 
+* Library Name:  EECS391
+* Top Cell Name: NAND3
+* View Name:     schematic
+* Netlisted on:  Feb 11 02:37:00 2022
+************************************************************************
+
+*.EQUATION
+*.SCALE METER
+*.MEGA
+.PARAM
+
+
+
+************************************************************************
+* Library Name: EECS391
+* Cell Name:    NAND3
+* View Name:    schematic
+************************************************************************
+
+.SUBCKT NAND3 A B C Y gnd vdd
+*.PININFO A:I B:I C:I Y:O gnd:B vdd:B
+MM2 Y C vdd vdd PMOS_VTG W=600n L=50n m=1
+MM1 Y B vdd vdd PMOS_VTG W=600n L=50n m=1
+MM0 Y A vdd vdd PMOS_VTG W=600n L=50n m=1
+MM5 net19 C gnd gnd NMOS_VTG W=400n L=50n m=1
+MM4 net20 B net19 gnd NMOS_VTG W=400n L=50n m=1
+MM3 Y A net20 gnd NMOS_VTG W=400n L=50n m=1
+.ENDS
+

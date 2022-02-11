@@ -1,0 +1,8 @@
+CADENCE IHNL11140
+$model
+EECS391/NAND3/schematic NAND3
+$endmodel
+$net
+$endnet
+$param
+$endparam
