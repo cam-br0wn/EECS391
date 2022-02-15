@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kjy6815
+HostName                       alfred.ece.northwestern.edu
+ProcessIdentifier              1763023
+ProcessCreationTime_UTC        1644960770
+ProcessCreationTime_Readable   Tue Feb 15 15:32:50 2022 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/kjy6815/cadence/EECS391/sim_NAND3/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Feb 15 15:43:40 2022 CST

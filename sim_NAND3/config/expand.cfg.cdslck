@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kjy6815
+HostName                       alfred.ece.northwestern.edu
+ProcessIdentifier              1763023
+ProcessCreationTime_UTC        1644960768
+ProcessCreationTime_Readable   Tue Feb 15 15:32:48 2022 CST
+AppIdentifier                  /vol/cadence2018/IC617/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       Not specified
+FilePathUsedToEditLock         /home/kjy6815/cadence/EECS391/sim_NAND3/config/expand.cfg
+TimeEditLocked                 Tue Feb 15 17:39:20 2022 CST
