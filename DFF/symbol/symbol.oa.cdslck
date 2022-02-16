@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Tue Feb 15 19:16:14 2022 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/ckb4640/391/EECS391/DFF/schematic/sch.oa.cdslck
-TimeEditLocked                 Tue Feb 15 19:18:23 2022 CST
+FilePathUsedToEditLock         /home/ckb4640/391/EECS391/DFF/symbol/symbol.oa.cdslck
+TimeEditLocked                 Tue Feb 15 20:11:22 2022 CST
