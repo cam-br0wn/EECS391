@@ -2,9 +2,9 @@
 Product   : Virtuoso(R) XStream Out
 Program   : @(#)$CDS: strmout version 6.1.7-64b 08/21/2018 19:43 (sjfhw315) $
           : sub-version  IC6.1.7-64b.500.22 
-Started at: 23-Jan-2022  23:40:09
+Started at: 18-Feb-2022  13:33:14
 User Name : ckb4640
-Host Name : huntress.ece.northwestern.edu
+Host Name : poisonivy.ece.northwestern.edu
 Directory : /home/ckb4640/391
 CADENCE Design Systems, Inc.
 ********************************************************************************
@@ -24,13 +24,13 @@ logFile                                 PIPO.LOG.inverter
 case                                    Preserve
 convertDot                              node
 
-INFO (XSTRM-223): 1. Translating cellView NCSU_TechLib_FreePDK45/PTAP/layout as STRUCTURE PTAP_CDNS_643002809540.
-INFO (XSTRM-223): 2. Translating cellView NCSU_TechLib_FreePDK45/NTAP/layout as STRUCTURE NTAP_CDNS_643002809541.
-INFO (XSTRM-223): 3. Translating cellView NCSU_TechLib_FreePDK45/M1_POLY/layout as STRUCTURE M1_POLY_CDNS_643002809542.
-INFO (XSTRM-223): 4. Translating cellView NCSU_TechLib_FreePDK45/dcont/layout as STRUCTURE dcont_CDNS_643002809541.
-INFO (XSTRM-223): 5. Translating cellView NCSU_TechLib_FreePDK45/nmos_vtg/layout as STRUCTURE nmos_vtg_CDNS_643002809540.
-INFO (XSTRM-223): 6. Translating cellView NCSU_TechLib_FreePDK45/dcont/layout as STRUCTURE dcont_CDNS_643002809543.
-INFO (XSTRM-223): 7. Translating cellView NCSU_TechLib_FreePDK45/pmos_vtg/layout as STRUCTURE pmos_vtg_CDNS_643002809542.
+INFO (XSTRM-223): 1. Translating cellView NCSU_TechLib_FreePDK45/PTAP/layout as STRUCTURE PTAP_CDNS_645212794250.
+INFO (XSTRM-223): 2. Translating cellView NCSU_TechLib_FreePDK45/M1_POLY/layout as STRUCTURE M1_POLY_CDNS_645212794251.
+INFO (XSTRM-223): 3. Translating cellView NCSU_TechLib_FreePDK45/NTAP/layout as STRUCTURE NTAP_CDNS_645212794252.
+INFO (XSTRM-223): 4. Translating cellView NCSU_TechLib_FreePDK45/dcont/layout as STRUCTURE dcont_CDNS_645212794251.
+INFO (XSTRM-223): 5. Translating cellView NCSU_TechLib_FreePDK45/nmos_vtg/layout as STRUCTURE nmos_vtg_CDNS_645212794250.
+INFO (XSTRM-223): 6. Translating cellView NCSU_TechLib_FreePDK45/dcont/layout as STRUCTURE dcont_CDNS_645212794253.
+INFO (XSTRM-223): 7. Translating cellView NCSU_TechLib_FreePDK45/pmos_vtg/layout as STRUCTURE pmos_vtg_CDNS_645212794252.
 INFO (XSTRM-223): 8. Translating cellView EECS391/inverter/layout as STRUCTURE inverter.
 INFO (XSTRM-180): You have not used the objectMap option. The design has instance(s) of at least one of following OpenAccess objects: oaBlockage, oaBoundary, oaRow, and oaMarker. Any information about these objects will not be translated into the generated stream file. Use the objectMap option to translate/preserve these objects using XStream. For details on the objectMap option, refer to the "Design Data Translator's Reference" guide for XStream.
 
@@ -56,8 +56,8 @@ Summary of Objects Translated:
 	CdsGen Vias:                            0
 	Pathsegs:                               0
 	Text:                                   4
-	TextDisplay:                            4
+	TextDisplay:                            2
 	Cells:                                  8
 
-Elapsed Time: 0.2s   User Time: 0.1s   CPU Time: 0.0s   Peak VM: 9840KB
+Elapsed Time: 0.4s   User Time: 0.1s   CPU Time: 0.0s   Peak VM: 9848KB
 INFO (XSTRM-234): Translation completed. '0' error(s) and '1' warning(s) found.

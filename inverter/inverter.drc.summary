@@ -3,7 +3,7 @@
 ==================================================================================
 === CALIBRE::DRC-H SUMMARY REPORT
 ===
-Execution Date/Time:       Sun Jan 23 23:38:32 2022
+Execution Date/Time:       Fri Feb 18 13:33:14 2022
 Calibre Version:           v2011.4_35.27    Tue Jan 10 16:18:55 PST 2012
 Rule File Pathname:        /home/ckb4640/391/EECS391/inverter/_calibreDRC.rul_
 Rule File Title:           
@@ -14,7 +14,7 @@ Current Directory:         /home/ckb4640/391/EECS391/inverter
 User Name:                 ckb4640
 Maximum Results/RuleCheck: 1000
 Maximum Result Vertices:   4096
-DRC Results Database:      /home/ckb4640/391/EECS391/inverter/inverter.drc.results (ASCII)
+DRC Results Database:      inverter.drc.results (ASCII)
 Layout Depth:              ALL
 Text Depth:                PRIMARY
 Summary Report File:       inverter.drc.summary (REPLACE)
@@ -30,7 +30,7 @@ Keep Empty Checks:         YES
 ----------------------------------------------------------------------------------
 --- ORIGINAL LAYER STATISTICS
 ---
-LAYER pwell ...... TOTAL Original Geometry Count = 3  (3)
+LAYER pwell ...... TOTAL Original Geometry Count = 4  (4)
 LAYER nwell ...... TOTAL Original Geometry Count = 3  (3)
 LAYER active ..... TOTAL Original Geometry Count = 14 (16)
 LAYER poly ....... TOTAL Original Geometry Count = 8  (8)
@@ -38,7 +38,7 @@ LAYER pimplant ... TOTAL Original Geometry Count = 2  (2)
 LAYER nimplant ... TOTAL Original Geometry Count = 2  (2)
 LAYER vth ........ TOTAL Original Geometry Count = 0  (0)
 LAYER vtg ........ TOTAL Original Geometry Count = 2  (2)
-LAYER metal1 ..... TOTAL Original Geometry Count = 14 (16)
+LAYER metal1 ..... TOTAL Original Geometry Count = 13 (15)
 LAYER contact .... TOTAL Original Geometry Count = 10 (17)
 LAYER metal2 ..... TOTAL Original Geometry Count = 0  (0)
 LAYER metal3 ..... TOTAL Original Geometry Count = 0  (0)
