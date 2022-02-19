@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ckb4640
+HostName                       poisonivy.ece.northwestern.edu
+ProcessIdentifier              1752733
+ProcessCreationTime_UTC        1645212134
+ProcessCreationTime_Readable   Fri Feb 18 13:22:14 2022 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/ckb4640/391/EECS391/DFF/layout/layout.oa.cdslck
+TimeEditLocked                 Fri Feb 18 13:33:39 2022 CST
